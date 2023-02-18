@@ -6,6 +6,7 @@
 - 👀 I’m working with Kubernetes ☸️, Docker 🐳, Tekton CI and a lot of tools from the CNCF and CD Foundation.
 - 📚 I’m currently increasing my skills on Kubernetes, Docker, Backstage and CI/CD tools like Argo and Tekton CI
 - ☀️ Usually I start my day on https://start.spring.io
+- ✍️ I write on https://justinpolidori.it when I want to share something I learnt
 <br />
 
 ### 📫 How to reach me
