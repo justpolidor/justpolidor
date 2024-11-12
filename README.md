@@ -2,7 +2,7 @@
 
 ### My name is Justin Polidori. I'm a DevSecOps Platform Architecture Lead! 🤖
 
-- 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies from the CNCF and CD Foundation, I am passionate about automation, with 3 years of experience as a Backend Engineer, 4 as DevOps, currently working as an DevSecOps Platform Architecture Lead, always looking for new technologies to learn.
+- 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies from the CNCF and CD Foundation, I am passionate about automation, with 3 years of experience as a Backend Engineer, 6 as DevOps, currently working as an DevSecOps Platform Architecture Lead, always looking for new technologies to learn.
 - 👀 I’m working with Kubernetes ☸️, Docker 🐳, Tekton CI and a lot of tools from the CNCF and CD Foundation.
 - 📚 I’m currently increasing my skills on Kubernetes, Docker, Backstage and CI/CD tools like Argo and Tekton CI
 - ☀️ Usually I start my day on https://start.spring.io
